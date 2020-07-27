@@ -61,7 +61,7 @@
 }
 </style>
 </style>
-<body class="navbar-top navbar-bottom fixed-bg" style="padding-right: 0 !important;"><?PHP var_dump($meta);?>
+<body class="navbar-top navbar-bottom fixed-bg" style="padding-right: 0 !important;">
 <script>
 	Noty.overrideDefaults({
             theme: 'limitless',
