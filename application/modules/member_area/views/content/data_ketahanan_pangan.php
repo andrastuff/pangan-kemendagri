@@ -269,6 +269,7 @@ $('body').addClass('sidebar-xs');
 	}
 	
 	$.extend( $.fn.dataTable.defaults, {
+			paging: false,
             autoWidth: false,
 			dom: '<"datatable-header"fl><"datatable-scroll"t><"datatable-footer"ipB>', 	
 			buttons: ['copy',
